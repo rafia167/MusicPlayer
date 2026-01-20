@@ -1,16 +1,23 @@
-# React + Vite
+# **🎵 Music Player – Project Demo**
+<img width="1071" height="595" alt="music player 1" src="https://github.com/user-attachments/assets/62f193a4-ab6b-45f9-bdff-697638a36664" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1082" height="596" alt="music player 2" src="https://github.com/user-attachments/assets/6a214749-60ac-4cc1-b477-61470f2f945d" />
 
-Currently, two official plugins are available:
+## 📌 About This Project
+This is a **React Music Player** where users can play songs, switch tracks, and enjoy a smooth UI experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🚀 Features
+- ▶️ Play / Pause music  
+- ⏭️ Switch between songs  
+- 📂 Load songs from public folder
+- 🎵 Control music voice
+- 🎶 Create and manage your own playlists  
+- 📂 Add your favorite songs to playlists  
+- 🎧 Smooth audio playback  
+- 🎧 Clean and responsive UI
+  
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🛠️ Tech Stack
+- ⚛️ React JS  
+- 🎨 CSS   
+- 🎵 javaScript
